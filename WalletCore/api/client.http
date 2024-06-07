@@ -13,7 +13,7 @@ POST http://localhost:3000/accounts HTTP/1.1
 Content-Type: application/json
 
 {
-    "client_id": "87495b95-1c7f-4038-ae55-ab36ed6a9411"
+    "client_id": "ed44fdee-90f8-44a2-b555-0159511008b2"
 }
 
 ###
@@ -22,7 +22,7 @@ POST http://localhost:8080/transactions HTTP/1.1
 Content-Type: application/json
 
 {
-    "account_id_from": "f8df753c-3b58-43aa-8016-12aaa4f1ea3e",
-    "account_id_to": "0216ea38-524f-4e85-8743-d484a8f7538e",
+    "account_id_from": "7da9c076-b60c-434c-9bf5-5078fb4d5592",
+    "account_id_to": "bdbb70ee-4a69-4098-bf58-536be8ff956b",
     "amount": 1
 }
